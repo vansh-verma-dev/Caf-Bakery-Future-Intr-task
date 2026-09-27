@@ -1,0 +1,24 @@
+/* Custom Styles for Aura Café */
+body {
+    background-color: #FAF7F2;
+}
+
+/* Smooth tab transitions */
+.menu-tab {
+    transition: all 0.25s ease-in-out;
+}
+
+/* Scrollbar customization */
+::-webkit-scrollbar {
+    width: 8px;
+}
+::-webkit-scrollbar-track {
+    background: #FAF7F2;
+}
+::-webkit-scrollbar-thumb {
+    background: #D4A373;
+    border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #3D2C24;
+}
