@@ -1,5 +1,6 @@
 ﻿# ☕ Cafe & Bakery Website
-# Future  Internship Task Café & Bakery Live https://caf-bakery.netlify.app/
+# Future  Internship Task Café & Bakery 
+Live: https://caf-bakery.netlify.app/
 A modern and responsive website for a Cafe & Bakery, designed with a clean interface to showcase the cafe's products, services, and information.
 
 ## ✨ Features
